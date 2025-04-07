@@ -1,10 +1,13 @@
-```markdown
 <h1 align="center">📁 Python File Sharing App with QR Code</h1>
 <h3 align="center">Share files across devices using HTTP server & QR code</h3>
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Security](https://img.shields.io/badge/Port-8010-secure-green)
-![QR Code](https://img.shields.io/badge/Feature-QR_Generation-yellow)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8%2B-blue" />
+  <img src="https://img.shields.io/badge/Port-8010-secure-green" />
+  <img src="https://img.shields.io/badge/Feature-QR_Generation-yellow" />
+</p>
+
+---
 
 ## 🌟 Key Features
 - **Instant HTTP Server** - Share files via local network
@@ -13,9 +16,12 @@
 - **Secure Port** - Uses non-standard port 8010
 - **OneDrive Integration** - Direct access to desktop files
 
+---
+
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Socket](https://img.shields.io/badge/-Socket.IO-010101?logo=socket.io)
+![Local Server](https://img.shields.io/badge/-HTTP_Server-black?logo=windows-terminal&logoColor=white)
+
 
 
 ## 📥 Installation
